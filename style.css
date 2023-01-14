@@ -218,7 +218,8 @@ sup{
 }
 #form-product {
     font-size:15px;
-    padding:0% 15%;
+    padding: -42px -15%;
+    margin: -10px;
 }
 #form-product input{
     height:1.6rem;
